@@ -2,6 +2,7 @@
 
 #create some random data 
 n=360 #sample size
+nf=2    #number of factors
 
 
 datasize=n
